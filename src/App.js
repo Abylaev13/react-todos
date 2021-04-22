@@ -59,7 +59,7 @@ function App() {
 
   function handleCloseModal(){
     setModal(false)
-  
+    alert("закрыть")
   }
 
   return (
