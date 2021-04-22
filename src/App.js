@@ -60,6 +60,7 @@ function App() {
   function handleCloseModal(){
     setModal(false)
     alert("закрыть")
+    console.log("asdasdasd есть только у тестовой ветки")
   }
 
   return (
